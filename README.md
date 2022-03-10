@@ -9,7 +9,8 @@ The program is trained to find underlying patterns in cryptocurrency price chang
 
 A Principal Component Analysis is performed on the data, and it is cross examined against the original set through composite visualizations.
 
-![Screenshot 2022-03-09 222617](https://user-images.githubusercontent.com/95719899/157596751-4b9fcb98-7246-42a6-a882-b60b09669b56.jpg)
+![Screenshot 2022-03-09 224622](https://user-images.githubusercontent.com/95719899/157597584-823a0740-4513-4675-a040-a19fae81ce3f.jpg)
+
 
 ## Technologies
 
